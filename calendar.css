@@ -1,0 +1,26 @@
+#calendarContainer
+{
+    width : 100%;
+    max-width: 800px;
+    height: 100%;
+    max-height: 600px;
+    display: inline-block;
+    margin-left: 20%;
+}
+.monthly
+{
+   box-shadow: 0 13px 40px rgba(0, 0, 0, 0.5);		
+}
+#AddCita
+{
+    color: dodgerblue;
+    font-family: sans-serif;
+position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 15%;
+    height: 8%;
+   
+    
+        
+}

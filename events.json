@@ -1,0 +1,35 @@
+{
+  "monthly": {
+    "event": [
+      {
+        "id": "1",
+        "name": "Here's an Event",
+        "startdate": "2016-3-15",
+        "enddate": "2016-3-17",
+        "starttime": "12:00",
+        "endtime": "2:00",
+        "color": "#ffb128"
+      },
+      {
+        "id": "2",
+        "name": "Another Event",
+        "startdate": "2016-3-15",
+        "color": "#28cbff"
+      },
+      {
+        "id": "3",
+        "name": "Another Event",
+        "startdate": "2016-3-29",
+        "starttime": "9:00",
+        "endtime": "10:00",
+        "color": "#9cc370"
+      },
+      {
+        "id": "4",
+        "name": "Another Event",
+        "startdate": "2016-3-2",
+        "color": "#9f4b99"
+      }
+    ]
+  }
+}
